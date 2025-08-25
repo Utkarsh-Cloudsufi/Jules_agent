@@ -1,0 +1,7 @@
+aiohttp>=3.9
+beautifulsoup4>=4.12
+groq>=0.9
+pandas>=2.2
+openpyxl>=3.1
+pdfplumber>=0.11
+numpy>=1.26
